@@ -23,4 +23,4 @@ aggs = client.get_aggs(
     "2023-07-27"
 )
 
-print(aggs.open)
+print(aggs)
